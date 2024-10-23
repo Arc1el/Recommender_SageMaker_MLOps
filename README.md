@@ -1,4 +1,4 @@
-# Content-based Filtering Recommendation System with Amazon SageMaker MLOps
+# Content-based / Collaborative Filtering Recommendation System with Amazon SageMaker MLOps
 
 ## 프로젝트 개요
 이 프로젝트는 Amazon SageMaker를 활용하여 확장 가능한 Content Based / Collaborate 필터링 추천 시스템을 구축하고 MLOps 파이프라인을 구현한 것입니다. 사용자의 선호도와 아이템의 특성을 분석하여 개인화된 추천을 제공합니다.
