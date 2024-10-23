@@ -107,3 +107,4 @@ python scripts/deploy_model.py
 
 ## 참고 문헌
 - Amazon SageMaker 개발자 가이드
+- [파이썬을 활용한 추천 시스템 구현(recommender system with Python)](https://github.com/lsjsj92/recommender_system_with_Python)
